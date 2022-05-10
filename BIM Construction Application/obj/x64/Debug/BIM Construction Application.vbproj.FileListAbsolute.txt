@@ -1,0 +1,17 @@
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\bin\x64\Debug\BIMConstructionDB.accdb
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\bin\x64\Debug\BIM Construction Application.exe.config
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\bin\x64\Debug\BIM Construction Application.exe
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\bin\x64\Debug\BIM Construction Application.pdb
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\bin\x64\Debug\BIM Construction Application.xml
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\obj\x64\Debug\BIM Construction Application.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\obj\x64\Debug\BIM_Construction_Application.Form1.resources
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\obj\x64\Debug\BIM_Construction_Application.Form2.resources
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\obj\x64\Debug\BIM_Construction_Application.Resources.resources
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\obj\x64\Debug\BIM Construction Application.vbproj.GenerateResource.cache
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\obj\x64\Debug\BIM Construction Application.vbproj.CoreCompileInputs.cache
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\obj\x64\Debug\BIM Construction Application.exe
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\obj\x64\Debug\BIM Construction Application.xml
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\obj\x64\Debug\BIM Construction Application.pdb
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\obj\x64\Debug\BIM Construction Application.vbproj.AssemblyReference.cache
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\obj\x64\Debug\BIM_Construction_Application.Form3.resources
+C:\Users\Durrani\source\repos\BIM Construction Application\BIM Construction Application\obj\x64\Debug\BIM_Construction_Application.AboutBox.resources
